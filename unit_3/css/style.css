@@ -1,5 +1,7 @@
 h1 {
-    color: 666666;
+    color: 666666; font-family: 'IBM Plex Serif', serif;
 }
 
-p {color: 666666}
+p {color: 666666; font-family: 'Open Sans', sans-serif;
+
+}
